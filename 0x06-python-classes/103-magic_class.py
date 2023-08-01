@@ -6,10 +6,10 @@ import math
 
 
 class MagicClass:
-    """Represent a circle."""
+    """It Represent a circle."""
 
     def __init__(self, radius=0):
-        """Initialize a MagicClass.
+        """It Initialize a MagicClass.
 
         Arg:
             radius (float or int): The radius of the new MagicClass.
