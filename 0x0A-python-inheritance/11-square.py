@@ -5,7 +5,7 @@ This Contains the class BaseGeometry and subclass Rectangle
 
 
 class BaseGeometry:
-    """This is a class with public instance methods area and integer_validator"""
+"""This is a class with public instance methods area and integer_validator"""
     def area(self):
         """it raises an exception when called"""
         raise Exception("area() is not implemented")
